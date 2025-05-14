@@ -1,0 +1,6 @@
+# SSH konfiguráció a projekt számára
+Host myserver
+    HostName 192.168.0.217
+    User ssh_szb_teszt
+    Port 22
+    PasswordAuthentication yes
